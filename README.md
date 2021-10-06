@@ -73,6 +73,10 @@ simplex trees) from data points in
 ![\\mathbb{R}^d](https://latex.codecogs.com/png.latex?%5Cmathbb%7BR%7D%5Ed
 "\\mathbb{R}^d"), using the simplex tree data structure.
 
+
+This [Notebook](Tuto-GUDHI-alpha-complex-visualization.ipynb) shows how to visualize simplicial complexes.
+
+
 [Notebook: Rips and alpha complexes from pairwise
 distance](Tuto-GUDHI-simplicial-complexes-from-distance-matrix.ipynb).
 It is also possible to define Rips complexes in general metric spaces
@@ -229,9 +233,6 @@ Diagram](Tuto-GUDHI-Expected-persistence-diagrams.ipynb)
 
 [Confidence regions for persistence diagrams - data
 points](Tuto-GUDHI-ConfRegions-PersDiag-datapoints.ipynb)
-
-[Confidence regions with Bottleneck
-Bootstrap](Tuto-GUDHI-ConfRegions-PersDiag-BottleneckBootstrap.ipynb)
 
 [ATOL
 tutorial](https://github.com/martinroyer/atol/blob/master/demo/atol-demo.ipynb)
