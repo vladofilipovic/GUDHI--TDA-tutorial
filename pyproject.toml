@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "notebooks"
+version = "0.1.0"
+description = "Notebook pages for GUDHI"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.1.1"
+gudhi = "^3.10.1"
+matplotlib = "^3.10.0"
+scikit-learn = "^1.6.1"
+tqdm = "^4.67.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
